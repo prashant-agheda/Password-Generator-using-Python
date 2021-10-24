@@ -6,11 +6,11 @@
 
 # Result of the Project
 
-![Project Image 1](1.png)
+![Project Image 1](1.PNG)
 
 ---
 
-![Project Image 2](2.png)
+![Project Image 2](2.PNG)
 
 ---
 
@@ -18,11 +18,11 @@
 
 ---
 
-![Project Image 4](4.png)
+![Project Image 4](4.PNG)
 
 ---
 
-![Project Image 5](5.png)
+![Project Image 5](5.PNG)
 
 ---
 
