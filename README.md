@@ -1,5 +1,6 @@
 # Password-Generator-using-Python
 - A simple password generator that generates password for you.
+- User can Copy the password to Clipboard.
 - Project made using Python and Tkinter.
 - Created with ❤ by Prashant Agheda 😊
 
